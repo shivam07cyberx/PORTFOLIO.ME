@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #daa465;
+}
+
+header {
+    background-color: #583333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+
+.section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.project {
+   border: 1px solid rgb(31, 20, 20);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+label, input, textarea, button {
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+   
+background-color: rgb(72, 5, 5);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: #555;
+}
+.rounded-image {
+    border-radius: 300px; /* Adjust the value to change the radius */
+   
+}
+
+
+.rounded-image {
+    border-radius: 50%; /* To make it a circle */
+    border: 5px solid rgb(22, 24, 12); /* Red border with 5px width */
+}
+
+
+
+
+.button-link {
+    color: rgb(247, 247, 247)/* Your desired color */;
+    text-decoration: none; /* To remove the default underline */
+   
+}
+.button-lin {
+    color: wheat /* Your desired color */;
+    text-decoration: none; /* To remove the default underline */
+}
+
+.man{
+background-color: rgb(72, 5, 5);
+}
+.men
+{
+
+background-color: rgb(72, 5, 5);
+}
+
+.m{
+    background-color: #455528;
+    color: #ccc;
+}
